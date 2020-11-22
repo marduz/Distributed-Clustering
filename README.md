@@ -1,4 +1,4 @@
-# Distributed Clustering Examples
+# Distributed Clustering
  
 Implementation of Kmeans and Distance Based Outlier Detection with Hadoop MapReduce.
 
